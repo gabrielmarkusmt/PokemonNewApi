@@ -1,0 +1,7 @@
+*.ipynb
+/images/*
+.DS_Store
+*.zip
+!images/1.png
+!images/10002.png
+!images/10034.png
